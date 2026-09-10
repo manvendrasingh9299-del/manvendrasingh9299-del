@@ -1,19 +1,15 @@
-<img align="right" src="https://github.com/user-attachments/assets/86fcb4d2-a719-419b-acbf-aacaa3f2100c" width="180">
+<img align="right" src="https://github.com/user-attachments/assets/86fcb4d2-a719-419b-acbf-aacaa3f2100c" width="200">
 
-<div style="font-size:32px;font-weight:700;">
-Hi there 👋
-</div>
+<h2>Hi there 👋</h2>
 
-<div style="font-size:22px;font-weight:600;">
-こんにちは
-</div>
+<h3>こんにちは</h3>
 
-<br>
-
+<p>
 <a href="https://leetcode.com/u/MAnvendraXingh">🔗 LeetCode</a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:manvendra.singh9299@gmail.com">🔗 Gmail</a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/manvendrasingh9299-del">🔗 GitHub</a>
+</p>
 
 <br clear="right">
