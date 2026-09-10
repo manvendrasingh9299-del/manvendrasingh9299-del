@@ -3,7 +3,9 @@
 <p>こんにちは 👋</p>
 
 <p>
-  📎 <a href="https://leetcode.com/u/MAnvendraXingh">LeetCode</a>
-  📎 <a href="mailto:manvendra.singh9299@gmail.com">Gmail</a>
-  📎 <a href="https://github.com/manvendrasingh9299-del">GitHub</a>
+  <a href="https://leetcode.com/u/MAnvendraXingh">📎 LeetCode</a>
+  &nbsp;&nbsp;
+  <a href="mailto:manvendra.singh9299@gmail.com">📎 Gmail</a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/manvendrasingh9299-del">📎 GitHub</a>
 </p>
