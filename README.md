@@ -1,38 +1,45 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=180&section=header&text=Manvendra%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Manvendra%20Singh&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=AI/ML%20Developer&descAlignY=75&descSize=16&descColor=9ca3af" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/manvendrasingh9299-del/EasyLearn"><img src="https://img.shields.io/badge/EasyLearn-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/manvendrasingh9299-del/EasyLearn"><img src="https://img.shields.io/badge/Resume-111827?style=flat-square&logo=googledocs&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+Based in Dehradun, India — I build full-stack apps powered by open-source AI models, from study tools to NLP dashboards, with a focus on running everything locally instead of relying on paid APIs.
+</p>
 
-AI/ML Developer based in Dehradun, India. I build full-stack applications powered by open-source AI models — from study tools to NLP dashboards — with a focus on things that run locally, without relying on paid APIs.
+<br>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,nodejs,mongodb,git&theme=dark" />
+</p>
 
-### Tech Stack
-
-**Languages:** Python, JavaScript
-**Frontend:** React
-**Backend:** FastAPI, Node.js
-**Database:** MongoDB
-**AI/ML:** Llama 3, Mistral, Hugging Face Transformers, spaCy
-
----
+<br>
 
 ### Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **[EasyLearn](https://github.com/manvendrasingh9299-del/EasyLearn)**
-An AI study assistant that turns notes into something you can actually study from. Upload a PDF, a photo, or even handwritten pages, and it generates summaries, flashcards, and exam tips, with a chat assistant to answer questions on the material. Runs on Llama 3 and Mistral, either locally or on a free Kaggle GPU.
+AI study assistant — turns PDFs, photos, and handwritten notes into summaries, flashcards, and exam tips, with a chat assistant built in. Runs on Llama 3 and Mistral.
+
+</td>
+<td width="50%" valign="top">
 
 **[marginalia-nlp](https://github.com/manvendrasingh9299-del/marginalia-nlp)**
-A dashboard for exploring core NLP tasks — sentiment analysis, summarization, entity recognition, keyword extraction, and semantic similarity — all running on open-source models, entirely offline after setup.
+NLP dashboard for sentiment analysis, summarization, entity recognition, keyword extraction, and semantic similarity — all on open-source models, fully offline.
 
----
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manvendrasingh9299-del&show_icons=true&theme=dark&hide_border=true&count_private=true" />
