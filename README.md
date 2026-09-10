@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,50:2b2b2b,100:1a1a1a&height=180&section=header&text=Welcome%20to%20Manvendra's%20Github&fontSize=28&fontColor=ffffff&fontAlignY=45&desc=%3C/%3E&descAlignY=65&descSize=20&descColor=888888" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,50:2b2b2b,100:1a1a1a&height=180&section=header&text=Welcome%20to%20Manvendra%27s%20GitHub&fontSize=28&fontColor=ffffff&fontAlignY=45&desc=%3C/%3E&descAlignY=65&descSize=20&descColor=888888" width="100%" />
+</p>
+
+<h3 align="center">About me</h3>
+
+<p align="center">
+Hello there, I'm <b>Manvendra Singh</b>, an AI/ML student based in Dehradun, India.<br>
+I enjoy learning new technologies and solving problems through code, and I'm always working on something to sharpen my skills.
 </p>
 
 <br>
 
-### About me
-
-Hello there, I'm **Manvendra Singh**, an AI/ML student based in Dehradun, India. I enjoy learning new technologies and solving problems through code, and I'm always working on something to sharpen my skills.
-
-<br>
-
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,nodejs,mongodb,git,html,css&theme=dark" />
@@ -18,10 +19,10 @@ Hello there, I'm **Manvendra Singh**, an AI/ML student based in Dehradun, India.
 
 <br>
 
-### Statistics
+<h3 align="center">Statistics</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYSpQfWvXQ1cLpi/giphy.gif" width="60" />
+  <img src="flame.svg" width="50" />
 </p>
 
 <p align="center">
@@ -36,9 +37,9 @@ Hello there, I'm **Manvendra Singh**, an AI/ML student based in Dehradun, India.
 
 <br>
 
-### Major Projects
+<h3 align="center">Major Projects</h3>
 
-<table>
+<table align="center" width="90%">
 <tr>
 <td width="50%" valign="top">
 
@@ -57,7 +58,7 @@ NLP dashboard for sentiment analysis, summarization, entity recognition, keyword
 
 <br>
 
-### Contact
+<h3 align="center">Contact</h3>
 
 <p align="center">
   <a href="mailto:manvendra.singh9299@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1A1A?style=flat-square&logo=gmail&logoColor=FF4500" /></a>
