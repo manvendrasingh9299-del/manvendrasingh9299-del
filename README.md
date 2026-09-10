@@ -1,82 +1,154 @@
 <p align="center">
-  <img src="<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyZjQ1ODhmZC02NjdmLTRiMjMtOTc2Ni1lNzUyMzQ4NTliMTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaAAwdLVujWr+Cq5gDuXvgDYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3MWY5NDA0Yi0zMjk4LTQ5OWItYWNkMi04OGY3MTM4YTYwZjBscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo7DsD9ah5h6vMsDxBhor+NAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggFM03/yqDGq91IeZg9oeuCNz98x38HjjNhvErP3lp5VCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCSVppNtd7dVu9ZgTV+hVu0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCFR7LJjkcHxkMW6flfqtYy7t13UM/ztU2XCsBDCYCqBGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiSZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjJmNDU4OGZkLTY2N2YtNGIyMy05NzY2LWU3NTIzNDg1OWIxNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjU0NmZhM2ZhLTk5NGQtNDhiNC05M2RlLWUyOGI3OWRmOWJjZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAUzTf/KoMar3Uh5mD2h64I3P3zHfweOM2G8Ss/eWnlUKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggYeMHF1zVmkS7FyqO/yw2fOFwpfv4XYidU7XyRV96faGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggtSCKgZL6HL+XWd0WIv+i4H0AxXc9e97d8YPf5ab+nZR0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAcXnXPPHgtSQZTpC3tsWxBdrVcfj+paWAB7eifnqEmaBoqz25j+HHpbJNvGjBHtnUnvEw995RB+2k93yFKEEKg=</c2pa:manifest></metadata>
-  <defs>
-    <linearGradient id="flameGrad" x1="0%" y1="100%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#FF4500"/>
-      <stop offset="60%" stop-color="#FF8C00"/>
-      <stop offset="100%" stop-color="#FFD700"/>
-    </linearGradient>
-  </defs>
-  <path fill="url(#flameGrad)">
-    <animate attributeName="d" dur="1.2s" repeatCount="indefinite"
-      values="
-        M30 5 C20 20, 10 28, 12 40 C13 50, 22 56, 30 56 C38 56, 47 50, 48 40 C50 28, 40 20, 30 5 Z;
-        M30 8 C22 22, 12 29, 14 40 C15 49, 23 55, 30 55 C37 55, 45 49, 46 40 C48 29, 38 22, 30 8 Z;
-        M30 5 C20 20, 10 28, 12 40 C13 50, 22 56, 30 56 C38 56, 47 50, 48 40 C50 28, 40 20, 30 5 Z
-      "/>
-  </path>
-</svg>" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff4500&height=220&section=header&text=Manvendra%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%7C%20Python%20%7C%20Full%20Stack&descAlignY=60&descSize=18&descColor=cccccc" width="100%"/>
 </p>
 
-<h3 align="center">About me</h3>
+<h2 align="center">Hey there! 👋 I'm Manvendra</h2>
 
 <p align="center">
-Hello there, I'm <b>Manvendra Singh</b>, an AI/ML student based in Dehradun, India.<br>
-I enjoy learning new technologies and solving problems through code, and I'm always working on something to sharpen my skills.
-</p>
-
-<br>
-
-<h3 align="center">Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,nodejs,mongodb,git,html,css&theme=dark" />
-</p>
-
-<br>
-
-<h3 align="center">Statistics</h3>
-
-<p align="center">
-  <img src="flame.svg" width="50" />
+  <b>AI/ML Student • Developer • Problem Solver</b>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=manvendrasingh9299-del&theme=dark&hide_border=true&background=1A1A1A&stroke=2B2B2B&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" width="48%" />
-  &nbsp;
-  <img src="https://leetcard.jacoblin.cool/MAnvendraXingh?theme=dark&border=false&bg_color=1A1A1A&text_color=FFFFFF&hover_color=FF4500" width="48%" />
+  🇮🇳 Dehradun, India &nbsp; • &nbsp;
+  🤖 Artificial Intelligence & Machine Learning &nbsp; • &nbsp;
+  💻 Building with code
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manvendrasingh9299-del&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=1A1A1A" />
+  <img src="https://komarev.com/ghpvc/?username=manvendrasingh9299-del&label=Profile%20Views&color=ff4500&style=for-the-badge"/>
 </p>
 
-<br>
+---
 
-<h3 align="center">Major Projects</h3>
+## 🧠 About Me
 
-<table align="center" width="90%">
+I'm **Manvendra Singh**, an AI/ML student from **Dehradun, India**.
+
+I enjoy building practical projects, experimenting with AI, learning new technologies, and solving problems through code.
+
+- 🔭 Currently working on **AI/ML & software projects**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning & NLP**
+- 🐍 Python is my main language
+- 🌱 Always learning something new
+- ⚡ I like turning ideas into working projects
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,nodejs,mongodb,git,github,html,css&perline=10"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,linux,vscode&perline=10"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-**[EasyLearn](https://github.com/manvendrasingh9299-del/EasyLearn)**
-AI study assistant — turns PDFs, photos, and handwritten notes into summaries, flashcards, and exam tips, with a chat assistant built in. Runs on Llama 3 and Mistral.
+<h3>📚 EasyLearn</h3>
+
+AI-powered study assistant designed to make learning easier.
+
+- 📄 PDF & document processing
+- 📸 Image & handwritten-note support
+- 🧠 AI summaries
+- 🃏 Flashcard generation
+- 💬 AI study assistant
+- 📝 Exam-focused tips
+
+<b>Tech:</b> Python • AI/ML • Llama 3 • Mistral
+
+<br><br>
+
+<a href="https://github.com/manvendrasingh9299-del/EasyLearn">
+<img src="https://img.shields.io/badge/View%20Project-ff4500?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-**[marginalia-nlp](https://github.com/manvendrasingh9299-del/marginalia-nlp)**
-NLP dashboard for sentiment analysis, summarization, entity recognition, keyword extraction, and semantic similarity — all on open-source models, fully offline.
+<h3>📝 marginalia-nlp</h3>
+
+An offline NLP dashboard powered by open-source models.
+
+- 💭 Sentiment analysis
+- 📄 Text summarization
+- 🏷️ Named entity recognition
+- 🔑 Keyword extraction
+- 🔗 Semantic similarity
+- 🔒 Fully offline processing
+
+<b>Tech:</b> Python • NLP • Open-source AI
+
+<br><br>
+
+<a href="https://github.com/manvendrasingh9299-del/marginalia-nlp">
+<img src="https://img.shields.io/badge/View%20Project-ff4500?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-<h3 align="center">Contact</h3>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="mailto:manvendra.singh9299@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1A1A?style=flat-square&logo=gmail&logoColor=FF4500" /></a>
-  <a href="https://leetcode.com/u/MAnvendraXingh"><img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=flat-square&logo=leetcode&logoColor=FF4500" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=manvendrasingh9299-del&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=ff4500&icon_color=ff4500&text_color=ffffff&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrasingh9299-del&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=ff4500&text_color=ffffff&langs_count=8" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manvendrasingh9299-del&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
+</p>
+
+---
+
+## 💻 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/MAnvendraXingh">
+    <img src="https://leetcard.jacoblin.cool/MAnvendraXingh?theme=dark&border=0&radius=12" width="55%"/>
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendrasingh9299-del&bg_color=0d1117&color=ffffff&line=ff4500&point=ffffff&area=true&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:manvendra.singh9299@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4500"/>
+  </a>
+  <a href="https://leetcode.com/u/MAnvendraXingh">
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FF4500"/>
+  </a>
+  <a href="https://github.com/manvendrasingh9299-del">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF4500"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>“Building, learning, and improving — one commit at a time.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4500,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 </p>
