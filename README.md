@@ -1,14 +1,3 @@
-<h2 align="center">Manvendra Singh</h2>
-
-<p align="center">
-  <b>AI/ML Student · Python Developer · Building with AI</b>
-</p>
-
-<p align="center">
-  Dehradun, India
-</p>
-
-<br>
 
 <h3>About Me</h3>
 
@@ -65,12 +54,4 @@ Currently focused on <b>Artificial Intelligence, Machine Learning, NLP and Full-
   <a href="https://github.com/manvendrasingh9299-del">
     <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=flat-square&logo=github&logoColor=white">
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280">
 </p>
