@@ -1,57 +1,91 @@
-
-<h3>About Me</h3>
-
-<p>
-I'm an AI/ML student who enjoys building practical software and experimenting with
-artificial intelligence. I like turning ideas into useful projects while continuously
-improving my programming and problem-solving skills.
-</p>
-
-<p>
-Currently focused on <b>Artificial Intelligence, Machine Learning, NLP and Full-Stack Development</b>.
-</p>
-
-<br>
-
-<h3>Tech Stack</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,nodejs,mongodb,git,github,html,css,pytorch,tensorflow&perline=12">
-</p>
-
-<br>
-
-<h3>GitHub Statistics</h3>
+<h1 align="center">Manvendra Singh</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manvendrasingh9299-del&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ff4500" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrasingh9299-del&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=ffffff&text_color=9ca3af" height="170">
+  <strong>AI/ML Student</strong> &nbsp;·&nbsp;
+  <strong>Python Developer</strong> &nbsp;·&nbsp;
+  <strong>Problem Solver</strong>
+</p>
+
+<p align="center">
+  <sub>Dehradun, India · Building intelligent and useful software</sub>
 </p>
 
 <br>
+
+<h2>About Me</h2>
+
+<p>
+I'm <strong>Manvendra Singh</strong>, an AI/ML student focused on building practical
+software and exploring <mark>Artificial Intelligence</mark>,
+<mark>Machine Learning</mark>, <mark>NLP</mark> and
+<mark>Full-Stack Development</mark>.
+</p>
+
+<p>
+I enjoy turning ideas into real projects, learning new technologies and improving
+my problem-solving skills through consistent coding.
+</p>
+
+<br>
+
+<h2>Tech Stack</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,react,fastapi,nodejs,mongodb,git,github,html,css,pytorch,tensorflow&perline=12">
+</p>
+
+<br>
+
+<h2>Statistics</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>GitHub</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=manvendrasingh9299-del&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff6b35&text_color=c9d1d9&icon_color=ff6b35">
+
+</td>
+
+<td width="50%" valign="top">
 
 <h3>LeetCode</h3>
 
-<p align="center">
-  <a href="https://leetcode.com/u/MAnvendraXingh">
-    <img src="https://leetcard.jacoblin.cool/MAnvendraXingh?theme=dark&border=0&radius=10" width="500">
-  </a>
+<a href="https://leetcode.com/u/MAnvendraXingh">
+<img src="https://leetcard.jacoblin.cool/MAnvendraXingh?theme=dark&border=0&radius=10">
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2>Connect</h2>
+
+<p>
+<a href="mailto:manvendra.singh9299@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-ff6b35?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/MAnvendraXingh">
+<img src="https://img.shields.io/badge/LeetCode-MAnvendraXingh-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116">
+</a>
+&nbsp;
+<a href="https://github.com/manvendrasingh9299-del">
+<img src="https://img.shields.io/badge/GitHub-ManvendraSingh-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </p>
 
 <br>
 
-<h3>Connect</h3>
-
-<p>
-  <a href="mailto:manvendra.singh9299@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-FF4500?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/MAnvendraXingh">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-111111?style=flat-square&logo=leetcode&logoColor=FFA116">
-  </a>
-  &nbsp;
-  <a href="https://github.com/manvendrasingh9299-del">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=flat-square&logo=github&logoColor=white">
-  </a>
+<p align="center">
+<sub>
+<strong>Currently building.</strong>
+&nbsp;&nbsp;
+<strong>Currently learning.</strong>
+&nbsp;&nbsp;
+<strong>Always improving.</strong>
+</sub>
 </p>
