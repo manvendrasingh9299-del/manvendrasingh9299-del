@@ -6,7 +6,7 @@
   <strong style="font-size:28px;">Hi there 👋</strong>
   <br><br>
   <strong style="font-size:21px;">こんにちは</strong>
-  <br><br>
+  
   <a href="https://leetcode.com/u/MAnvendraXingh">🔗 LeetCode</a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:manvendra.singh9299@gmail.com">🔗 Gmail</a>
