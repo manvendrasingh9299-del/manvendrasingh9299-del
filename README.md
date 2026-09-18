@@ -4,9 +4,9 @@
   <img align="right" src="https://github.com/user-attachments/assets/86fcb4d2-a719-419b-acbf-aacaa3f2100c" width="110">
 
   <strong style="font-size:28px;">Hi there 👋</strong>
-  <br><br>
+  
   <strong style="font-size:21px;">こんにちは</strong>
-  <br><br>
+  
   <a href="https://leetcode.com/u/MAnvendraXingh">🔗 LeetCode</a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:manvendra.singh9299@gmail.com">🔗 Gmail</a>
