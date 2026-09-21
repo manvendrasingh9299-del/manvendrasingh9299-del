@@ -13,4 +13,3 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/manvendrasingh9299-del">🔗 GitHub</a>
 </p>
-[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
